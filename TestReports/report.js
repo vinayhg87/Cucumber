@@ -37,7 +37,7 @@ formatter.step({
   "rows": [
     {
       "cells": [
-        "vinayhg87@gmail.com",
+        "vinayhg@gmail.com",
         "pass1234"
       ],
       "line": 9
@@ -54,21 +54,21 @@ formatter.match({
   "location": "perfromSteps.open_the_Firefox_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 10157389400,
+  "duration": 13754433100,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.enter_the_incorrect_Username_and_Password(DataTable)"
 });
 formatter.result({
-  "duration": 13898694700,
+  "duration": 15586431700,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.Reset_the_credential()"
 });
 formatter.result({
-  "duration": 895819200,
+  "duration": 1417369200,
   "status": "passed"
 });
 formatter.uri("Features/GmailLogin.feature");
@@ -110,7 +110,7 @@ formatter.step({
   "rows": [
     {
       "cells": [
-        "vinayhg87@gmail.com",
+        "vinayhg@gmail.com",
         "pass1234"
       ],
       "line": 9
@@ -127,21 +127,21 @@ formatter.match({
   "location": "perfromSteps.open_the_Firefox_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 8480882500,
+  "duration": 8688733100,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.enter_the_incorrect_Username_and_Password(DataTable)"
 });
 formatter.result({
-  "duration": 14008223900,
+  "duration": 14171689100,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.Reset_the_credential()"
 });
 formatter.result({
-  "duration": 1222397600,
+  "duration": 2173970400,
   "status": "passed"
 });
 formatter.scenario({
@@ -169,7 +169,7 @@ formatter.step({
   "rows": [
     {
       "cells": [
-        "vinayhg87@gmail.com",
+        "vinayhg@gmail.com",
         "pass12342"
       ],
       "line": 17
@@ -186,21 +186,21 @@ formatter.match({
   "location": "perfromSteps.open_the_Firefox_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 10395919800,
+  "duration": 12789077600,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.enter_the_incorrect_Username_and_Password(DataTable)"
 });
 formatter.result({
-  "duration": 13901677500,
+  "duration": 14200731800,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.Reset_the_credential()"
 });
 formatter.result({
-  "duration": 830765300,
+  "duration": 1371238900,
   "status": "passed"
 });
 formatter.scenario({
@@ -228,7 +228,7 @@ formatter.step({
   "rows": [
     {
       "cells": [
-        "vinayhg87@gmail.com",
+        "vinayhg@gmail.com",
         "pass123423"
       ],
       "line": 25
@@ -245,21 +245,21 @@ formatter.match({
   "location": "perfromSteps.open_the_Firefox_and_launch_the_application()"
 });
 formatter.result({
-  "duration": 9434253300,
+  "duration": 9685893900,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.enter_the_incorrect_Username_and_Password(DataTable)"
 });
 formatter.result({
-  "duration": 13882915700,
+  "duration": 14220234400,
   "status": "passed"
 });
 formatter.match({
   "location": "perfromSteps.Reset_the_credential()"
 });
 formatter.result({
-  "duration": 812589900,
+  "duration": 1226202600,
   "status": "passed"
 });
 });
